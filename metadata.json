@@ -1,0 +1,62 @@
+{
+  "type" : "project",
+  "name" : "pr3",
+  "description" : "OAK logo",
+  "tags" : "image generation",
+  "metadata" : [
+    {
+      "name" : "data",
+      "type" : "data",
+      "description" : "Data repository",
+      "metadata" : [
+        {
+          "name" : "1",
+          "type" : "data",
+          "description" : "V 1",
+          "metadata" : [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "model",
+      "type" : "model",
+      "description" : "Model repository",
+      "metadata" : [
+        {
+          "name" : "1",
+          "type" : "data",
+          "description" : "V 1",
+          "metadata" : []
+        }
+      ]
+    },
+    {
+      "name" : "code",
+      "type" : "code",
+      "description" : "Code repository",
+      "metadata" : [
+        {
+          "name" : "pr3.ipynb",
+          "type" : "file",
+          "description" : "Code of project to generate model and image",
+          "metadata" : []
+        }
+      ]
+    },
+    {
+      "name" : "doc",
+      "type" : "doc",
+      "description" : "Documentation",
+      "metadata" : [
+        {
+          "name" : "PR3.docx",
+          "type" : "file",
+          "description" : "Doc of OAK logo",
+          "metadata" : []
+        }
+      ]
+    }
+  ]
+}
