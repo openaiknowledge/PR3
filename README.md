@@ -27,7 +27,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/openaiknowledge/pr3/tree/master">
-    <img src="logo.jpg" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">pr3-OAK-Logo</h3>
@@ -75,19 +75,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`openaiknowledge`, `pr3`, `openaiknowledge`, `openaiknowledge@gmail.com`, `pr3-OAK-Logo`, `Project description`
+Develop TF code and use AI Models and Datasets necessary to generate image for OAK logo:
+- use images from 2001 a space odyssey (film)
+- use models of image generation: DCGAN, StyledGAN, CVAE, ...
 
 
 ### Built With
-
-* []()
-* []()
-* []()
+- Python 
+- Jupyter Notebook
+- Google Colab
+- Tensorflow/Keras
 
 
 
