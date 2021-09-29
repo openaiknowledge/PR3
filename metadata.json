@@ -38,9 +38,21 @@
       "description" : "Code repository",
       "metadata" : [
         {
-          "name" : "pr3.ipynb",
+          "name" : "pr3_edge_detection.ipynb",
+          "type" : "file",
+          "description" : "generate logo edge",
+          "metadata" : []
+        },
+        {
+          "name" : "pr3-cvae.ipynb",
           "type" : "file",
           "description" : "Code of project to generate model and image",
+          "metadata" : []
+        },
+        {
+          "name" : "pr3_style_transfer.ipynb",
+          "type" : "file",
+          "description" : "we generate logo in any size",
           "metadata" : []
         }
       ]
