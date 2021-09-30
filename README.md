@@ -1,7 +1,7 @@
 <!--
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** openaiknowledge, pr3, openaiknowledge, openaiknowledge@gmail.com, pr3-OAK-Logo, Project description
+*** openaiknowledge, pr3, openaiknowledge, openaiknowledge@gmail.com, pr3-OAK Logo, Project description
 -->
 
 
@@ -35,7 +35,7 @@
   <p align="center">
     Project description
     <br />
-    <a href="https://github.com/openaiknowledge/pr3/tree/master/doc"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.google.com/document/d/1Htz4Z8wdMGKIo31MX7INS4ADeTpONwYk/edit?usp=sharing&ouid=110990511078180423903&rtpof=true&sd=true"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/openaiknowledge/pr3/issues">Report Bug</a>
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://github.com/openaiknowledge/pr3/tree/master/doc)_
+_For more examples, please refer to the [Documentation](https://docs.google.com/document/d/1Htz4Z8wdMGKIo31MX7INS4ADeTpONwYk/edit?usp=sharing&ouid=110990511078180423903&rtpof=true&sd=true)_
 
 
 
