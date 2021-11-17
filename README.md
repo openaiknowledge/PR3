@@ -1,7 +1,7 @@
 <!--
-***
+*****
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** openaiknowledge, pr3, openaiknowledge, openaiknowledge@gmail.com, pr3-OAK Logo, Project description
+*** openaiknowledge, pr3, openaiknowledge, openaiknowledge@gmail.com, pr3-OAK Logo, Project description  
 -->
 
 
